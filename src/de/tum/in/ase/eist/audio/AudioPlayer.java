@@ -11,8 +11,7 @@ import javafx.scene.media.MediaPlayer;
  */
 public class AudioPlayer implements AudioPlayerInterface {
 
-	// TODO Backlog Item 15: Change the music file here
-	private static final String BACKGROUND_MUSIC_FILE = "Music.wav";
+	private static final String BACKGROUND_MUSIC_FILE = "Music2.mp3";
 
 	private final MediaPlayer musicPlayer;
 
